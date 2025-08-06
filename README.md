@@ -30,8 +30,9 @@ PearlDB is ideal for small-scale apps, scripting environments, educational tools
 git clone https://github.com/vatsalgayakwad/pearldb.git
 cd pearldb
 perl ./bin/pearldb
+```
 
-### 🍺 Install via Homebrew
+### 🍺 Option 2: Install via Homebrew
 
 ```bash
 # Tap the repository
@@ -42,3 +43,4 @@ brew install pearldb
 
 # Run pearldb
 pearldb
+```

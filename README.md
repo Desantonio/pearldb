@@ -44,3 +44,4 @@ brew install pearldb
 # Run pearldb
 pearldb
 ```
+### ⚠️ Requires Perl 5.10 or higher. Most macOS and Linux systems include this by default.

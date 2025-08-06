@@ -1,0 +1,17 @@
+=head1 NAME
+
+PearlDB - A minimal SQL interpreter written in pure Perl
+
+=head1 SYNOPSIS
+
+  $ pearldb
+
+=head1 DESCRIPTION
+
+This is a command-line SQL interpreter written in Perl without external dependencies.
+
+=head1 AUTHOR
+
+Vatsal Gayakwad
+
+=cut

@@ -1,0 +1,25 @@
+echo ".DS_Store
+*.swp
+*.bak
+*.tmp
+*.log
+*.sqlite
+*.db
+*.lock
+__pycache__
+*.tar.gz
+*.zip
+*.tar
+*.deb
+*.rpm
+*.dmg
+*.pkg
+*.old
+*.o
+*.so
+*.out
+build/
+.idea/
+.vscode/
+test/output*
+" > .gitignore

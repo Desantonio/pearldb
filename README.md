@@ -31,9 +31,14 @@ git clone https://github.com/vatsalgayakwad/pearldb.git
 cd pearldb
 perl ./bin/pearldb
 
-### 🍺 Option 2: Install via Homebrew (macOS/Linux)
-If you use Homebrew:
-brew tap vatsalgayakwad/pearl
+### 🍺 Install via Homebrew
+
+```bash
+# Tap the repository
+brew tap Desantonio/pearldb
+
+# Install pearldb
 brew install pearldb
-Then run:
+
+# Run pearldb
 pearldb
